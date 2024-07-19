@@ -8,7 +8,7 @@ alert(
   "Olá! Meu nome é" +
     " " +
     nome +
-    ", meu cantor(a) ou favorita é" +
+    ", meu cantor(a) ou banda favorita é" +
     " " +
     singer +
     " " +
